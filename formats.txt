@@ -10,7 +10,6 @@
 	<set>Severed_Dreams</set>
 	<set>Wheel_of_Fire</set>
 	<set>Crusade</set>
-	<set>Trackers</set>
 	<set>Promo_Cards</set>
 </format>
 
@@ -20,5 +19,11 @@
 	<set>The_Vorlons</set>
 	<set>Trackers</set>
 </format>
+
+<format>
+	<label>Game_Resources</label>
+	<set>Trackers</set>
+</format>
+
 
 </formatdefinitions>
