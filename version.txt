@@ -3,6 +3,6 @@
 <lastupdateYYMMDD>190609</lastupdateYYMMDD>
  <versionurl>https://peterdekinder.github.io/b5-ccg-lackey/version.txt</versionurl>
  <updateurl>https://peterdekinder.github.io/b5-ccg-lackey/updatelist.txt</updateurl>
- <message>facebook.com/chaosframe</message>
+ <message>facebook.com/peterdekinder</message>
 
 </version>
