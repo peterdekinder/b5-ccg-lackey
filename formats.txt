@@ -21,6 +21,7 @@
 </format>
 
 <format>
+	<label>Game_Resources</label>
 	<set>Trackers</set>
 </format>
 
