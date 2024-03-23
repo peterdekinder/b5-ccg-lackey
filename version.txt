@@ -1,8 +1,8 @@
 <version>
 
 <lastupdateYYMMDD>190609</lastupdateYYMMDD>
- <versionurl>https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/version.txt</versionurl>
- <updateurl>https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/updatelist.txt</updateurl>
+ <versionurl>https://peterdekinder.github.io/b5-ccg-lackey/version.txt</versionurl>
+ <updateurl>https://peterdekinder.github.io/b5-ccg-lackey/updatelist.txt</updateurl>
  <message>facebook.com/chaosframe</message>
 
 </version>
