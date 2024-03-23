@@ -14,14 +14,14 @@
 </format>
 
 <format>
-	<label>Fan_Sets</label>
+	<label>Fan Sets</label>
 	<set>AnlaShok</set>
 	<set>The_Vorlons</set>
 	<set>Trackers</set>
 </format>
 
 <format>
-	<label>Game_Resources</label>
+	<label>Game Resources</label>
 	<set>Trackers</set>
 </format>
 
