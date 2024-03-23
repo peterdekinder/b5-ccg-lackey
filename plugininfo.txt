@@ -15,6 +15,11 @@
 		<initialvalue>4</initialvalue>
 	</globalstat>
 	
+	<globalstat>
+		<label>UNIVERSAL POWER POOL</label>
+		<initialvalue>12</initialvalue>
+	</globalstat>
+
 	<playerstat>
 		<label>Influence</label>
 		<initialvalue>4</initialvalue>
@@ -45,9 +50,9 @@
 	<phase><label>READY</label></phase>
 	<phase><label>CONFLICT</label></phase>
 	<phase><label>ACTION</label></phase>
-	<phase><label>AFTERMATH</label></phase>
+	<phase><label>RESOLUTION</label></phase>
 	<phase><label>DRAW</label></phase>
-
+	<phase><label>CLEANUP</label></phase>
 	
 	
 	<gamezone>
