@@ -6,7 +6,7 @@ plugins/Babylon5-Nexus/formats.txt	https://peterdekinder.github.io/b5-ccg-lackey
 plugins/Babylon5-Nexus/packs/packdefinitions.xml	https://peterdekinder.github.io/b5-ccg-lackey/packs/packdefinitions.xml	507433
 plugins/Babylon5-Nexus/sets/setimages/general/spawned.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/spawned.jpg	-69041
 plugins/Babylon5-Nexus/sets/setimages/general/cardback.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/cardback.jpg	-41401
-plugins/Babylon5-Nexus/sets/setimages/general/tension_tracker.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/tension_tracker.jpg	-44474
+plugins/Babylon5-Nexus/sets/setimages/general/tension_tracker.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/tokens/tension_tracker.jpg	-44474
 plugins/Babylon5-Nexus/packs/01-Pr.jpg	https://peterdekinder.github.io/b5-ccg-lackey/packs/01-Pr.jpg	-58893
 plugins/Babylon5-Nexus/packs/02-Sh.jpg	https://peterdekinder.github.io/b5-ccg-lackey/packs/02-Sh.jpg	-37017
 plugins/Babylon5-Nexus/packs/03-Dl.jpg	https://peterdekinder.github.io/b5-ccg-lackey/packs/03-Dl.jpg	-5055
