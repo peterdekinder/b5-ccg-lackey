@@ -2,22 +2,27 @@
 
 <format>
 	<label>Official</label>
-	<set>Premier</set>
-	<set>Shadows</set>
-	<set>Deluxe</set>
-	<set>Great_War</set>
-	<set>Psi_Corps</set>
-	<set>Severed_Dreams</set>
-	<set>Wheel_of_Fire</set>
+	<set>Premiere/Deluxe</set>
+	<set>The Shadows</set>
+	<set>The Great War</set>
+	<set>Psi Corps</set>
+	<set>Severed Dreams</set>
+	<set>Wheel of Fire</set>
 	<set>Crusade</set>
-	<set>Promo_Cards</set>
 </format>
 
 <format>
-	<label>Fan Sets</label>
-	<set>AnlaShok</set>
-	<set>The_Vorlons</set>
-	<set>Trackers</set>
+	<label>Dream Sets</label>
+	<set>Anla'shok</set>
+	<set>Collector's Edition</set>
+	<set>The Vorlons</set>
+</format>
+
+<format>
+	<label>Virtual Sets</label>
+	<set>A New Beginning</set>
+	<set>Apocrypha</set>
+	<set>Balance of Power</set>
 </format>
 
 <format>
