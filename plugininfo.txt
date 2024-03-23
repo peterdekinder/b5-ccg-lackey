@@ -44,8 +44,7 @@
 		<label>Unrest</label>
 		<initialvalue>1</initialvalue>
 	</playerstat>
-	
-	
+
 	
 	<phase><label>READY</label></phase>
 	<phase><label>CONFLICT</label></phase>
@@ -68,18 +67,6 @@
 	</gamezone> 
 	
 	<gamezone>
-      <label>Discard</label>
-      <visibletoowner>YES</visibletoowner>
-      <visibletoothers>YES</visibletoothers>
-	</gamezone> 
-	
-	<gamezone>
-      <label>Removed</label>
-      <visibletoowner>YES</visibletoowner>
-      <visibletoothers>YES</visibletoothers>
-	</gamezone> 
-	
-	<gamezone>
 		<label>CrusadePile</label>
 		<visibletoowner>NO</visibletoowner>
 		<visibletoothers>NO</visibletoothers>
@@ -92,10 +79,16 @@
 	</gamezone>
 	
 	<gamezone>
-		<label>Starting</label>
-		<visibletoowner>YES</visibletoowner>
-		<visibletoothers>NO</visibletoothers>
-	</gamezone>
+      <label>Discard</label>
+      <visibletoowner>YES</visibletoowner>
+      <visibletoothers>YES</visibletoothers>
+	</gamezone> 
+	
+	<gamezone>
+      <label>Removed</label>
+      <visibletoowner>YES</visibletoowner>
+      <visibletoothers>YES</visibletoothers>
+	</gamezone> 
 	
 	<deckzone>
 		<label>Deck</label>
@@ -111,12 +104,11 @@
 	
 	<deckzone>
 		 <label>Starting</label>
-		 <gamezonetoloadto>Starting</gamezonetoloadto>
+		 <gamezonetoloadto>Hand</gamezonetoloadto>
 		 <shuffle>NO</shuffle>
 	</deckzone>
 	
-	
-	
+
 	<generalfunction>
 		<label>Ready All</label>
 		<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
