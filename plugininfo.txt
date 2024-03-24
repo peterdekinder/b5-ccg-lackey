@@ -255,14 +255,14 @@
 	<cardfunction>
 		<label>LEAD--</label>
 		<kind>REMOVECOUNTER</kind>
-		<color>ORANGE</color>
+		<color>YELLOW</color>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
 	<cardfunction>
 		<label>LEAD++</label>
 		<kind>ADDCOUNTER</kind>
-		<color>ORANGE</color>
+		<color>YELLOW</color>
 		<PositionX>1</PositionX>
 		<PositionY>0.35</PositionY>
 		<includeasbutton>YES</includeasbutton>
@@ -299,13 +299,13 @@
 	<cardfunction>
 		<label>CONSPIRACY--</label>
 		<kind>REMOVECOUNTER</kind>
-		<color>YELLOW</color>
+		<color>ORANGE</color>
 	</cardfunction>
 	
 	<cardfunction>
 		<label>CONSPIRACY++</label>
 		<kind>ADDCOUNTER</kind>
-		<color>YELLOW</color>
+		<color>ORANGE</color>
 		<PositionX>0</PositionX>
 		<PositionY>0.5</PositionY>
 	</cardfunction>
