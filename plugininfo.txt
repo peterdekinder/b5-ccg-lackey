@@ -215,7 +215,7 @@
 		<label>DIP++</label>
 		<kind>ADDCOUNTER</kind>
 		<color>GREEN</color>
-		<PositionX>1</PositionX>
+		<PositionX>0</PositionX>
 		<PositionY>0.95</PositionY>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
@@ -231,8 +231,8 @@
 		<label>INT++</label>
 		<kind>ADDCOUNTER</kind>
 		<color>BLUE</color>
-		<PositionX>1</PositionX>
-		<PositionY>0.75</PositionY>
+		<PositionX>0</PositionX>
+		<PositionY>0.80</PositionY>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
@@ -247,8 +247,8 @@
 		<label>PSI++</label>
 		<kind>ADDCOUNTER</kind>
 		<color>VIOLET</color>
-		<PositionX>1</PositionX>
-		<PositionY>0.55</PositionY>
+		<PositionX>0</PositionX>
+		<PositionY>0.60</PositionY>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
@@ -263,8 +263,8 @@
 		<label>LEAD++</label>
 		<kind>ADDCOUNTER</kind>
 		<color>YELLOW</color>
-		<PositionX>1</PositionX>
-		<PositionY>0.35</PositionY>
+		<PositionX>0</PositionX>
+		<PositionY>0.40</PositionY>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
@@ -279,7 +279,7 @@
 		<kind>ADDCOUNTER</kind>
 		<color>WHITE</color>
 		<PositionX>0</PositionX>
-		<PositionY>-0.2</PositionY>
+		<PositionY>0</PositionY>
 	</cardfunction>
 	
 	<cardfunction>
@@ -291,9 +291,9 @@
 	<cardfunction>
 		<label>DOOM++</label>
 		<kind>ADDCOUNTER</kind>
-		<color>INDIGO</color>
+		<color>RED</color>
 		<PositionX>0.2</PositionX>
-		<PositionY>-0.2</PositionY>
+		<PositionY>0</PositionY>
 	</cardfunction>
 	
 	<cardfunction>
@@ -307,7 +307,7 @@
 		<kind>ADDCOUNTER</kind>
 		<color>BLACK</color>
 		<PositionX>0.8</PositionX>
-		<PositionY>-0.2</PositionY>
+		<PositionY>0</PositionY>
 	</cardfunction>
 
 	<cardfunction>
@@ -321,7 +321,7 @@
 		<kind>ADDCOUNTER</kind>
 		<color>ORANGE</color>
 		<PositionX>0.6</PositionX>
-		<PositionY>-0.2</PositionY>
+		<PositionY>0</PositionY>
 	</cardfunction>
 	
 	
