@@ -13,6 +13,7 @@ plugins/Babylon5-Nexus/images/counterred.png	https://peterdekinder.github.io/b5-
 plugins/Babylon5-Nexus/images/counterviolet.png	https://peterdekinder.github.io/b5-ccg-lackey/images/counterviolet.png	507433
 plugins/Babylon5-Nexus/images/counterwhite.png	https://peterdekinder.github.io/b5-ccg-lackey/images/counterwhite.png	507433
 plugins/Babylon5-Nexus/images/counteryellow.png	https://peterdekinder.github.io/b5-ccg-lackey/images/counteryellow.png	507433
+plugins/Babylon5-Nexus/images/countergrey.png	https://peterdekinder.github.io/b5-ccg-lackey/images/countergrey.png	507433
 plugins/Babylon5-Nexus/sets/setimages/general/spawned.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/spawned.jpg	-69041
 plugins/Babylon5-Nexus/sets/setimages/general/cardback.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/cardback.jpg	-41401
 plugins/Babylon5-Nexus/sets/setimages/general/tension_tracker.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/tokens/tension_tracker.jpg	-44474
