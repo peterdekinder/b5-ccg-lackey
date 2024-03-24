@@ -279,7 +279,7 @@
 		<kind>ADDCOUNTER</kind>
 		<color>WHITE</color>
 		<PositionX>0</PositionX>
-		<PositionY>1</PositionY>
+		<PositionY>0.1</PositionY>
 	</cardfunction>
 	
 	<cardfunction>
@@ -292,8 +292,8 @@
 		<label>DOOM++</label>
 		<kind>ADDCOUNTER</kind>
 		<color>INDIGO</color>
-		<PositionX>0</PositionX>
-		<PositionY>0.8</PositionY>
+		<PositionX>0.2</PositionX>
+		<PositionY>0.1</PositionY>
 	</cardfunction>
 	
 	<cardfunction>
@@ -306,8 +306,8 @@
 		<label>CONSPIRACY++</label>
 		<kind>ADDCOUNTER</kind>
 		<color>ORANGE</color>
-		<PositionX>0</PositionX>
-		<PositionY>0.5</PositionY>
+		<PositionX>0.6</PositionX>
+		<PositionY>0.1</PositionY>
 	</cardfunction>
 	
 	

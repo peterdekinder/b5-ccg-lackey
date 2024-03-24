@@ -4,7 +4,13 @@ plugins/Babylon5-Nexus/setlist.txt	https://peterdekinder.github.io/b5-ccg-lackey
 plugins/Babylon5-Nexus/version.txt	https://peterdekinder.github.io/b5-ccg-lackey/version.txt	30675
 plugins/Babylon5-Nexus/formats.txt	https://peterdekinder.github.io/b5-ccg-lackey/formats.txt	35885
 plugins/Babylon5-Nexus/packs/packdefinitions.xml	https://peterdekinder.github.io/b5-ccg-lackey/packs/packdefinitions.xml	507433
+plugins/Babylon5-Nexus/images/counterblack.png	https://peterdekinder.github.io/b5-ccg-lackey/images/counterblack.png	507433
+plugins/Babylon5-Nexus/images/counterblue.png	https://peterdekinder.github.io/b5-ccg-lackey/images/counterblue.png	507433
+plugins/Babylon5-Nexus/images/countergreen.png	https://peterdekinder.github.io/b5-ccg-lackey/images/countergreen.png	507433
 plugins/Babylon5-Nexus/images/counterindigo.png	https://peterdekinder.github.io/b5-ccg-lackey/images/counterindigo.png	507433
+plugins/Babylon5-Nexus/images/counterorange.png	https://peterdekinder.github.io/b5-ccg-lackey/images/counterorange.png	507433
+plugins/Babylon5-Nexus/images/counterred.png	https://peterdekinder.github.io/b5-ccg-lackey/images/counterred.png	507433
+plugins/Babylon5-Nexus/images/counterviolet.png	https://peterdekinder.github.io/b5-ccg-lackey/images/counterviolet.png	507433
 plugins/Babylon5-Nexus/images/counterwhite.png	https://peterdekinder.github.io/b5-ccg-lackey/images/counterwhite.png	507433
 plugins/Babylon5-Nexus/images/counteryellow.png	https://peterdekinder.github.io/b5-ccg-lackey/images/counteryellow.png	507433
 plugins/Babylon5-Nexus/sets/setimages/general/spawned.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/spawned.jpg	-69041
