@@ -199,8 +199,8 @@
 		<label>DAMAGE++</label>
 		<kind>ADDCOUNTER</kind>
 		<color>RED</color>
-		<PositionX>0</PositionX>
-		<PositionY>0.1</PositionY>
+		<PositionX>0.7</PositionX>
+		<PositionY>0.75</PositionY>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
@@ -279,7 +279,7 @@
 		<kind>ADDCOUNTER</kind>
 		<color>WHITE</color>
 		<PositionX>0</PositionX>
-		<PositionY>0.1</PositionY>
+		<PositionY>-0.2</PositionY>
 	</cardfunction>
 	
 	<cardfunction>
@@ -293,9 +293,23 @@
 		<kind>ADDCOUNTER</kind>
 		<color>INDIGO</color>
 		<PositionX>0.2</PositionX>
-		<PositionY>0.1</PositionY>
+		<PositionY>-0.2</PositionY>
 	</cardfunction>
 	
+	<cardfunction>
+		<label>SHADOW--</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>BLACK</color>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>SHADOW++</label>
+		<kind>ADDCOUNTER</kind>
+		<color>BLACK</color>
+		<PositionX>0.8</PositionX>
+		<PositionY>-0.2</PositionY>
+	</cardfunction>
+
 	<cardfunction>
 		<label>CONSPIRACY--</label>
 		<kind>REMOVECOUNTER</kind>
@@ -307,7 +321,7 @@
 		<kind>ADDCOUNTER</kind>
 		<color>ORANGE</color>
 		<PositionX>0.6</PositionX>
-		<PositionY>0.1</PositionY>
+		<PositionY>-0.2</PositionY>
 	</cardfunction>
 	
 	
