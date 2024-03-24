@@ -2227,5 +2227,5 @@ Zhalan	Apocrypha	apocrypha.20	4	Enhancement	Minbari Fleet	0	0	0	0	0		F	Renowned.
 Zocalo Bartender	A New Beginning	beginning.53	4	Character	Neutral	1	1	0	0	0		F	Corporate. You may apply 1 additional influence each turn for each 6 points of Babylon 5 Influence. When participating in the "Working the Zocalo" conflict, Zocalo Bartender applies double his Diplomacy during resolution.
 Zog!	Crusade	crusade.158	0	Contingency	Character	0	0	0	0	0		P	You must have at least two Destiny Marks and no Shadow or Vorlon Marks to play or reveal this card. Reveal to cancel an event which requires a Shadow or Vorlon Mark. Or reveal at the resolution of a conflict targeting you to apply opposition to that conflict equal to the number of Destiny Marks in your faction. You may apply 5 influence when you reveal this card to return it to your hand.
 Zoog	The Vorlons	vorlons.143	0	Contingency	Centauri Character	0	0	0	0	0		R	Household God. Play on your ambassador. Reveal when an event is played which pictures or requires a Strife mark or targets a single Centauri card. The event is cancelled.
-BonusList	Game Resources	strife.png		Token								F	
+BonusList	Game Resources	strife		Token								F	
 

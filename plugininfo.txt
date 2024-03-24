@@ -191,14 +191,14 @@
 	<cardfunction>
 		<label>DAMAGE--</label>
 		<kind>REMOVECOUNTER</kind>
-		<color>RED</color>
+		<color>GREY</color>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
 	<cardfunction>
 		<label>DAMAGE++</label>
 		<kind>ADDCOUNTER</kind>
-		<color>RED</color>
+		<color>GREY</color>
 		<PositionX>0.7</PositionX>
 		<PositionY>0.75</PositionY>
 		<includeasbutton>YES</includeasbutton>
