@@ -1,5 +1,5 @@
-Babylon5-Nexus	03-06-19
-plugins/Babylon5-Nexus/plugininfo.txt	https://peterdekinder.github.io/b5-ccg-lackey/plugininfo.txt	546600
+Babylon5-Nexus	03-25-24
+plugins/Babylon5-Nexus/plugininfo.txt	https://peterdekinder.github.io/b5-ccg-lackey/plugininfo.txt	546601
 plugins/Babylon5-Nexus/setlist.txt	https://peterdekinder.github.io/b5-ccg-lackey/setlist.txt	1237
 plugins/Babylon5-Nexus/version.txt	https://peterdekinder.github.io/b5-ccg-lackey/version.txt	30675
 plugins/Babylon5-Nexus/formats.txt	https://peterdekinder.github.io/b5-ccg-lackey/formats.txt	35885
@@ -29,7 +29,7 @@ plugins/Babylon5-Nexus/packs/01-Pr_sd-Cn.jpg	https://peterdekinder.github.io/b5-
 plugins/Babylon5-Nexus/packs/04-GW_sd-NA.jpg	https://peterdekinder.github.io/b5-ccg-lackey/packs/04-GW_sd-NA.jpg	-23805
 plugins/Babylon5-Nexus/packs/04-GW_sd-HF.jpg	https://peterdekinder.github.io/b5-ccg-lackey/packs/04-GW_sd-HF.jpg	-23805
 plugins/Babylon5-Nexus/packs/05-Ps_sd-Ps.jpg	https://peterdekinder.github.io/b5-ccg-lackey/packs/05-Ps_sd-Ps.jpg	-5785
-plugins/Babylon5-Nexus/saved/start.txt	https://peterdekinder.github.io/b5-ccg-lackey/saved/start.txt	61449436
-plugins/Babylon5-Nexus/sets/All_Sets.txt	https://peterdekinder.github.io/b5-ccg-lackey/sets/All_Sets.txt	61449437
+plugins/Babylon5-Nexus/saved/start.txt	https://peterdekinder.github.io/b5-ccg-lackey/saved/start.txt	61449437
+plugins/Babylon5-Nexus/sets/All_Sets.txt	https://peterdekinder.github.io/b5-ccg-lackey/sets/All_Sets.txt	61449436
 CardGeneralURLs:
 https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/
