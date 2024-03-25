@@ -24,12 +24,7 @@
 <zone6>
 </zone6>
 </player>
-<player>
-<name>Test Dummy</name>
-<seat>1</seat>
-</player>
 <table>
-<card><id>53</id><owner>PLAYER0</owner><x>-0.48</x><y>-0.66</y></card>
 <card><id>1741</id><owner>PLAYER0</owner><x>-0.87</x><y>0.18</y></card>
 <card><id>42</id><owner>PLAYER0</owner><x>-0.87</x><y>0.15</y></card>
 <card><id>1265</id><owner>PLAYER0</owner><x>-0.87</x><y>0.12</y></card>
