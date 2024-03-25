@@ -130,12 +130,6 @@
 	</generalfunction>
 	
 	<generalfunction>
-		<label>Spawn Card</label>
-		<kind>SPAWNCARD</kind>
-		<includeasbutton>NO</includeasbutton>
-	</generalfunction>
-	
-	<generalfunction>
 		<label>Flip Coin</label>
 		<kind>FLIPCOIN</kind>
 		<includeasbutton>NO</includeasbutton>
@@ -146,9 +140,7 @@
 		<kind>ROLLD20</kind>
 		<includeasbutton>NO</includeasbutton>
 	</generalfunction>
-	
 
-	
 	
 	<cardfunction>
 		<label>Rotate</label>
@@ -191,15 +183,15 @@
 	<cardfunction>
 		<label>DAMAGE--</label>
 		<kind>REMOVECOUNTER</kind>
-		<color>GREY</color>
+		<color>RED</color>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
 	<cardfunction>
 		<label>DAMAGE++</label>
 		<kind>ADDCOUNTER</kind>
-		<color>GREY</color>
-		<PositionX>0.7</PositionX>
+		<color>RED</color>
+		<PositionX>0.9</PositionX>
 		<PositionY>0.75</PositionY>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
@@ -253,78 +245,36 @@
 	</cardfunction>
 	
 	<cardfunction>
-		<label>LEAD--</label>
+		<label>LEAD/MIL--</label>
 		<kind>REMOVECOUNTER</kind>
-		<color>YELLOW</color>
+		<color>ORANGE</color>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
 	<cardfunction>
-		<label>LEAD++</label>
+		<label>LEAD/MIL++</label>
 		<kind>ADDCOUNTER</kind>
-		<color>YELLOW</color>
+		<color>ORANGE</color>
 		<PositionX>0</PositionX>
 		<PositionY>0.40</PositionY>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
 	<cardfunction>
-		<label>DESTINY--</label>
+		<label>TOKEN--</label>
 		<kind>REMOVECOUNTER</kind>
-		<color>WHITE</color>
+		<color>RED</color>
+		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
 	<cardfunction>
-		<label>DESTINY++</label>
-		<kind>ADDCOUNTER</kind>
-		<color>WHITE</color>
-		<PositionX>0</PositionX>
-		<PositionY>0</PositionY>
-	</cardfunction>
-	
-	<cardfunction>
-		<label>DOOM--</label>
-		<kind>REMOVECOUNTER</kind>
-		<color>INDIGO</color>
-	</cardfunction>
-	
-	<cardfunction>
-		<label>DOOM++</label>
+		<label>TOKEN++</label>
 		<kind>ADDCOUNTER</kind>
 		<color>RED</color>
-		<PositionX>0.2</PositionX>
-		<PositionY>0</PositionY>
+		<PositionX>0.9</PositionX>
+		<PositionY>0.55</PositionY>
+		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
-	
-	<cardfunction>
-		<label>SHADOW--</label>
-		<kind>REMOVECOUNTER</kind>
-		<color>BLACK</color>
-	</cardfunction>
-	
-	<cardfunction>
-		<label>SHADOW++</label>
-		<kind>ADDCOUNTER</kind>
-		<color>BLACK</color>
-		<PositionX>0.8</PositionX>
-		<PositionY>0</PositionY>
-	</cardfunction>
-
-	<cardfunction>
-		<label>CONSPIRACY--</label>
-		<kind>REMOVECOUNTER</kind>
-		<color>ORANGE</color>
-	</cardfunction>
-	
-	<cardfunction>
-		<label>CONSPIRACY++</label>
-		<kind>ADDCOUNTER</kind>
-		<color>ORANGE</color>
-		<PositionX>0.6</PositionX>
-		<PositionY>0</PositionY>
-	</cardfunction>
-	
-	
 
 
 	<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
