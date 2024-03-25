@@ -317,5 +317,6 @@
 
 
 	<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
+	<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
 
 </plugin>
