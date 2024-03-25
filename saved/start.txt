@@ -11,13 +11,4 @@
 <card><id>1741</id></card>
 </shared>
 
-<table>
-<card><id>1741</id><owner>PLAYER0</owner><x>-0.87</x><y>0.18</y></card>
-<card><id>42</id><owner>PLAYER0</owner><x>-0.87</x><y>0.15</y></card>
-<card><id>1265</id><owner>PLAYER0</owner><x>-0.87</x><y>0.12</y></card>
-<card><id>1744</id><owner>PLAYER0</owner><x>-0.87</x><y>0.09</y></card>
-<card><id>430</id><owner>PLAYER0</owner><x>-0.87</x><y>0.06</y></card>
-<card><id>108</id><owner>PLAYER0</owner><x>-0.75</x><y>0.15</y></card>
-<card><id>107</id><owner>PLAYER0</owner><x>-0.75</x><y>0.09</y></card>
-</table>
 </save>

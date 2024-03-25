@@ -1,8 +1,9 @@
 Babylon5-Nexus	03-06-19
-plugins/Babylon5-Nexus/plugininfo.txt	https://peterdekinder.github.io/b5-ccg-lackey/plugininfo.txt	546596
+plugins/Babylon5-Nexus/plugininfo.txt	https://peterdekinder.github.io/b5-ccg-lackey/plugininfo.txt	546598
 plugins/Babylon5-Nexus/setlist.txt	https://peterdekinder.github.io/b5-ccg-lackey/setlist.txt	1237
 plugins/Babylon5-Nexus/version.txt	https://peterdekinder.github.io/b5-ccg-lackey/version.txt	30675
 plugins/Babylon5-Nexus/formats.txt	https://peterdekinder.github.io/b5-ccg-lackey/formats.txt	35885
+plugins/Babylon5-Nexus/bot.jpg	https://peterdekinder.github.io/b5-ccg-lackey/bot.jpg	546596
 plugins/Babylon5-Nexus/packs/packdefinitions.xml	https://peterdekinder.github.io/b5-ccg-lackey/packs/packdefinitions.xml	507433
 plugins/Babylon5-Nexus/sets/setimages/general/spawned.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/spawned.jpg	-69041
 plugins/Babylon5-Nexus/sets/setimages/general/cardback.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/cardback.jpg	-41401
