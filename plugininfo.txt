@@ -79,6 +79,12 @@
 	</gamezone>
 	
 	<gamezone>
+		<label>ConflictPile</label>
+		<visibletoowner>YES</visibletoowner>
+		<visibletoothers>YES</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
       <label>Discard</label>
       <visibletoowner>YES</visibletoowner>
       <visibletoothers>YES</visibletoothers>
@@ -166,6 +172,13 @@
 	</cardfunction>
 	
 	<cardfunction>
+		<label>Discard</label>
+		<kind>TRANSFERCARD</kind>
+		<destinationgamezone>Discard</destinationgamezone>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
 		<label>Note</label>
 		<kind>EDITNOTE</kind>
 	</cardfunction>
@@ -240,7 +253,7 @@
 		<kind>ADDCOUNTER</kind>
 		<color>VIOLET</color>
 		<PositionX>0</PositionX>
-		<PositionY>0.60</PositionY>
+		<PositionY>0.65</PositionY>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
@@ -256,21 +269,21 @@
 		<kind>ADDCOUNTER</kind>
 		<color>ORANGE</color>
 		<PositionX>0</PositionX>
-		<PositionY>0.40</PositionY>
+		<PositionY>0.50</PositionY>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
 	<cardfunction>
 		<label>TOKEN--</label>
 		<kind>REMOVECOUNTER</kind>
-		<color>RED</color>
+		<color>YELLOW</color>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
 	<cardfunction>
 		<label>TOKEN++</label>
 		<kind>ADDCOUNTER</kind>
-		<color>RED</color>
+		<color>YELLOW</color>
 		<PositionX>0.9</PositionX>
 		<PositionY>0.55</PositionY>
 		<includeasbutton>YES</includeasbutton>
