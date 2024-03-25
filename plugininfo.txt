@@ -100,8 +100,9 @@
 	
 	<gamezone>
 		<label>ConflictPile</label>
-		<isshared>YES</isshared>
+		<visibletoowner>YES</visibletoowner>
 		<visibletoothers>YES</visibletoothers>
+		<isshared>YES</isshared>
 	</gamezone>
 	
 	<gamezone>
