@@ -1,5 +1,5 @@
 Babylon5-Nexus	03-25-24
-plugins/Babylon5-Nexus/plugininfo.txt	https://peterdekinder.github.io/b5-ccg-lackey/plugininfo.txt	546601
+plugins/Babylon5-Nexus/plugininfo.txt	https://peterdekinder.github.io/b5-ccg-lackey/plugininfo.txt	546602
 plugins/Babylon5-Nexus/setlist.txt	https://peterdekinder.github.io/b5-ccg-lackey/setlist.txt	1237
 plugins/Babylon5-Nexus/version.txt	https://peterdekinder.github.io/b5-ccg-lackey/version.txt	30675
 plugins/Babylon5-Nexus/formats.txt	https://peterdekinder.github.io/b5-ccg-lackey/formats.txt	35885

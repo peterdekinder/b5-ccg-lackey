@@ -21,7 +21,7 @@
 	</globalstat>
 
 	<playerstat>
-		<label>Total Influence</label>
+		<label>Influence</label>
 		<initialvalue>4</initialvalue>
 	</playerstat>
 	
@@ -31,8 +31,8 @@
 	</playerstat>
 	
 	<playerstat>
-		<label>Used Influence</label>
-		<initialvalue>0</initialvalue>
+		<label>Available Influence</label>
+		<initialvalue>4</initialvalue>
 	</playerstat>
 
 	<playerstat>
