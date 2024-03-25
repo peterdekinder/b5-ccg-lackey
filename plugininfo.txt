@@ -21,17 +21,17 @@
 	</globalstat>
 
 	<playerstat>
-		<label>Influence</label>
+		<label>Total Influence</label>
 		<initialvalue>4</initialvalue>
 	</playerstat>
 	
 	<playerstat>
-		<label>Bonus Inf</label>
+		<label>Bonus Influence</label>
 		<initialvalue>0</initialvalue>
 	</playerstat>
 	
 	<playerstat>
-		<label>Used Inf</label>
+		<label>Used Influence</label>
 		<initialvalue>0</initialvalue>
 	</playerstat>
 
