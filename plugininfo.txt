@@ -118,6 +118,12 @@
 	</gamezone> 
 	
 	<deckzone>
+		 <label>Starting</label>
+		 <gamezonetoloadto>Hand</gamezonetoloadto>
+		 <shuffle>NO</shuffle>
+	</deckzone>
+
+	<deckzone>
 		<label>Deck</label>
 		<gamezonetoloadto>Deck</gamezonetoloadto>
 		<shuffle>yes</shuffle>
@@ -129,12 +135,6 @@
 		 <shuffle>YES</shuffle>
 	</deckzone>
 	
-	<deckzone>
-		 <label>Starting</label>
-		 <gamezonetoloadto>Hand</gamezonetoloadto>
-		 <shuffle>NO</shuffle>
-	</deckzone>
-
 	<deckzone>
 		 <label>ReserveDeck</label>
 		 <gamezonetoloadto>ReserveDeck</gamezonetoloadto>
