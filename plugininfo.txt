@@ -45,7 +45,27 @@
 		<initialvalue>1</initialvalue>
 	</playerstat>
 
-	
+	<playerstat>
+		<label>Tension Opponent #1</label>
+		<initialvalue>2</initialvalue>
+	</playerstat>
+
+	<playerstat>
+		<label>Tension Opponent #2</label>
+		<initialvalue>2</initialvalue>
+	</playerstat>
+
+	<playerstat>
+		<label>Tension Opponent #3</label>
+		<initialvalue>2</initialvalue>
+	</playerstat>
+
+	<playerstat>
+		<label>Tension Opponent #4</label>
+		<initialvalue>2</initialvalue>
+	</playerstat>
+
+
 	<phase><label>READY</label></phase>
 	<phase><label>CONFLICT</label></phase>
 	<phase><label>ACTION</label></phase>
@@ -73,7 +93,7 @@
 	</gamezone>
 	
 	<gamezone>
-		<label>ISA/Extra</label>
+		<label>ReserveDeck</label>
 		<visibletoowner>NO</visibletoowner>
 		<visibletoothers>NO</visibletoothers>
 	</gamezone>
@@ -81,7 +101,6 @@
 	<gamezone>
 		<label>ConflictPile</label>
 		<isshared>YES</isshared>
-		<visibletoowner>YES</visibletoowner>
 		<visibletoothers>YES</visibletoothers>
 	</gamezone>
 	
@@ -113,6 +132,12 @@
 		 <label>Starting</label>
 		 <gamezonetoloadto>Hand</gamezonetoloadto>
 		 <shuffle>NO</shuffle>
+	</deckzone>
+
+	<deckzone>
+		 <label>ReserveDeck</label>
+		 <gamezonetoloadto>ReserveDeck</gamezonetoloadto>
+		 <shuffle>YES</shuffle>
 	</deckzone>
 	
 
