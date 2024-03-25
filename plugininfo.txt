@@ -128,6 +128,12 @@
 	</generalfunction>
 	
 	<generalfunction>
+		<label>Reveal</label>
+		<kind>DRAWCARDTOTABLE</kind>
+		<includeasbutton>YES</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
 		<label>Crusade</label>
 		<kind>TRANSFERCARD</kind>
 		<sourcegamezone>CrusadePile</sourcegamezone>
@@ -168,13 +174,6 @@
 	<cardfunction>
 		<label>Flip</label>
 		<kind>TURNOVER</kind>
-		<includeasbutton>YES</includeasbutton>
-	</cardfunction>
-	
-	<cardfunction>
-		<label>Discard</label>
-		<kind>TRANSFERCARD</kind>
-		<destinationgamezone>Discard</destinationgamezone>
 		<includeasbutton>YES</includeasbutton>
 	</cardfunction>
 	
