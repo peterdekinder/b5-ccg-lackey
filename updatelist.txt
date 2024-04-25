@@ -1,4 +1,4 @@
-Babylon5-Nexus	03-25-24
+Babylon5-Nexus	04-23-24
 plugins/Babylon5-Nexus/plugininfo.txt	https://peterdekinder.github.io/b5-ccg-lackey/plugininfo.txt	546602
 plugins/Babylon5-Nexus/setlist.txt	https://peterdekinder.github.io/b5-ccg-lackey/setlist.txt	1237
 plugins/Babylon5-Nexus/version.txt	https://peterdekinder.github.io/b5-ccg-lackey/version.txt	30675
@@ -13,6 +13,7 @@ plugins/Babylon5-Nexus/sets/setimages/general/strifeMark.jpg	https://peterdekind
 plugins/Babylon5-Nexus/sets/setimages/general/conspiracyMark.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/conspiracyMark.jpg	507433
 plugins/Babylon5-Nexus/sets/setimages/general/shadowMark.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/shadowMark.jpg	507433
 plugins/Babylon5-Nexus/sets/setimages/general/vorlonMark.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/vorlonMark.jpg	507433
+plugins/Babylon5-Nexus/sets/setimages/general/impasseToken.jpg	https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/impasseToken.jpg	507433
 plugins/Babylon5-Nexus/packs/01-Pr.jpg	https://peterdekinder.github.io/b5-ccg-lackey/packs/01-Pr.jpg	-58893
 plugins/Babylon5-Nexus/packs/02-Sh.jpg	https://peterdekinder.github.io/b5-ccg-lackey/packs/02-Sh.jpg	-37017
 plugins/Babylon5-Nexus/packs/03-Dl.jpg	https://peterdekinder.github.io/b5-ccg-lackey/packs/03-Dl.jpg	-5055
@@ -29,6 +30,6 @@ plugins/Babylon5-Nexus/packs/04-GW_sd-NA.jpg	https://peterdekinder.github.io/b5-
 plugins/Babylon5-Nexus/packs/04-GW_sd-HF.jpg	https://peterdekinder.github.io/b5-ccg-lackey/packs/04-GW_sd-HF.jpg	-23805
 plugins/Babylon5-Nexus/packs/05-Ps_sd-Ps.jpg	https://peterdekinder.github.io/b5-ccg-lackey/packs/05-Ps_sd-Ps.jpg	-5785
 plugins/Babylon5-Nexus/saved/start.txt	https://peterdekinder.github.io/b5-ccg-lackey/saved/start.txt	61449439
-plugins/Babylon5-Nexus/sets/All_Sets.txt	https://peterdekinder.github.io/b5-ccg-lackey/sets/All_Sets.txt	61449440
+plugins/Babylon5-Nexus/sets/All_Sets.txt	https://peterdekinder.github.io/b5-ccg-lackey/sets/All_Sets.txt	61449441
 CardGeneralURLs:
 https://peterdekinder.github.io/b5-ccg-lackey/sets/setimages/general/
