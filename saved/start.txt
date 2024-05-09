@@ -4,9 +4,9 @@
 <name>ConflictPile</name>
 <card><id>43</id></card>
 <card><id>1346</id></card>
-<card><id>1854</id></card>
+<card><id>1855</id></card>
 <card><id>452</id></card>
-<card><id>1851</id></card>
+<card><id>1852</id></card>
 <card><id>112</id></card>
 <card><id>111</id></card>
 </shared>
