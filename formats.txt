@@ -23,6 +23,7 @@
 	<set>A New Beginning</set>
 	<set>Apocrypha</set>
 	<set>Balance of Power</set>
+	<set>Giants in the Playground</set>
 </format>
 
 <format>

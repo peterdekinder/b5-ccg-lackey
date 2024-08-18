@@ -106,6 +106,13 @@
 	</gamezone>
 	
 	<gamezone>
+		<label>EpochPile</label>
+		<visibletoowner>YES</visibletoowner>
+		<visibletoothers>YES</visibletoothers>
+		<isshared>YES</isshared>
+	</gamezone>
+
+	<gamezone>
       <label>Discard</label>
       <visibletoowner>YES</visibletoowner>
       <visibletoothers>YES</visibletoothers>
