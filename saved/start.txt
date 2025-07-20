@@ -1,6 +1,7 @@
 <save>
 
 <shared>
+<name>ConflictPile</name>
 <card><id>2085</id></card>
 <card><id>47</id></card>
 <card><id>1517</id></card>
