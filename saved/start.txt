@@ -2,28 +2,28 @@
 
 <shared>
 <name>ConflictPile</name>
-<card><id>132</id></card>
-<card><id>1797</id></card>
-<card><id>1677</id></card>
-<card><id>50</id></card>
-<card><id>2327</id></card>
-<card><id>559</id></card>
-<card><id>2330</id></card>
-<card><id>131</id></card>
+<card><id>1818</id></card>
+<card><id>2533</id></card>
+<card><id>601</id></card>
+<card><id>58</id></card>
+<card><id>2530</id></card>
+<card><id>1948</id></card>
+<card><id>143</id></card>
+<card><id>142</id></card>
 </shared>
 
 <shared>
 <name>EpochPile</name>
-<card><id>123</id></card>
-<card><id>416</id></card>
-<card><id>422</id></card>
-<card><id>845</id></card>
-<card><id>1774</id></card>
-<card><id>2083</id></card>
-<card><id>2393</id></card>
-<card><id>2935</id></card>
-<card><id>2974</id></card>
-<card><id>2986</id></card>
+<card><id>134</id></card>
+<card><id>446</id></card>
+<card><id>452</id></card>
+<card><id>909</id></card>
+<card><id>1923</id></card>
+<card><id>2263</id></card>
+<card><id>2599</id></card>
+<card><id>3187</id></card>
+<card><id>3227</id></card>
+<card><id>3240</id></card>
 </shared>
 
 </save>
